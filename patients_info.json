@@ -1,0 +1,52 @@
+{
+  "P001": {
+    "name": "Ananya Sharma",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90.0,
+    "bmi": 33.06,
+    "verdict": "Obese"
+  },
+  "P002": {
+    "name": "Rohan Verma",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "male",
+    "height": 1.78,
+    "weight": 75.0,
+    "bmi": 23.67,
+    "verdict": "Normal"
+  },
+  "P003": {
+    "name": "Priya Desai",
+    "city": "Ahmedabad",
+    "age": 24,
+    "gender": "female",
+    "height": 1.60,
+    "weight": 55.0,
+    "bmi": 21.48,
+    "verdict": "Normal"
+  },
+  "P004": {
+    "name": "Amit Singh",
+    "city": "Delhi",
+    "age": 42,
+    "gender": "male",
+    "height": 1.70,
+    "weight": 95.0,
+    "bmi": 32.87,
+    "verdict": "Obese"
+  },
+  "P005": {
+    "name": "Neha Kulkarni",
+    "city": "Pune",
+    "age": 31,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 72.0,
+    "bmi": 29.98,
+    "verdict": "Overweight"
+  }
+}
